@@ -1,0 +1,1 @@
+evo_ape euroc D:\Orbslam\mav0\state_groundtruth_estimate0/data.csv D:\Orbslam\CameraTrajectory.txt  -va --plot --save_results results/ORB.zip
